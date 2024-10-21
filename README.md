@@ -13,7 +13,7 @@
 
 ## Installation
 
-You can download the latest version of the program as an executable (.exe) from the [Releases](https://github.com/yourusername/CookieJar/releases) section of the repository.
+You can download the latest version of the program as an executable (.exe) from the [Releases](https://github.com/GDcocos12/CookieJar/releases) section of the repository.
 
 1. Go to the Releases page and download the latest `.exe` file.
 2. Place the downloaded file in a desired directory.
